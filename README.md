@@ -37,9 +37,8 @@
 
 ## Proyectos Destacados
 
-- **[Proyecto 1](https://github.com/tu-usuario/proyecto1)**: Descripción breve del proyecto 1.
-- **[Proyecto 2](https://github.com/tu-usuario/proyecto2)**: Descripción breve del proyecto 2.
-- **[Proyecto 3](https://github.com/tu-usuario/proyecto3)**: Descripción breve del proyecto 3.
+- **[Detector de Lenguaje de Señas](https://github.com/carlosrsg11/ProyectoIAFinal)**: Por medio de la web cam detecta la posición de las manos y aparece la letra que estamos intentando hacer.
+- **[Portafolio Web](https://github.com/carlosrsg11/portfolio)**: Portafolio web personal, realizado con nextjs y boostrap.
 
 ## Estadísticas de GitHub
 
